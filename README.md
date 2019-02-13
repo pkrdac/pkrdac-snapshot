@@ -13,3 +13,11 @@ eosDAC "active" members are able to receive up to 20% of PKRDAC's maximum supply
 ## Maximum Supply
 
 PKRDAC's maximum supply will remain as 10M.
+
+## Burned supply
+
+The following accounts are not eligible to receive PKRDAC tokens and will be burned from circulation:
+
+- `eospokermine`
+- `eospokerdevs`
+- `b1`
