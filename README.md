@@ -22,3 +22,17 @@ The following accounts are not eligible to receive PKRDAC tokens and will be bur
 - `eospokermine`
 - `eospokerdevs`
 - `b1`
+
+## Frozen supply
+
+Due to suspicious activities, the following accounts are not eligible in the initial PKRDAC distribution.
+
+These accounts have the right to submit a claim to PKRDAC; if approved the elected custodians will issue their rightful PKRDAC tokens.
+
+If no claim is made within the first 90 days of the DAC being established, these tokens will be treated as burned supply.
+
+- `ipokerplayer`
+- `pokerplayer1`
+- `pokerplayer2`
+- `pokerplayer3`
+- `ikrikrikrikr`
