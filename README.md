@@ -1,6 +1,6 @@
 # PKRDAC Snapshot
 
-PKRDAC snapshot was generated using a combination of the existing token balances of the POKER & eosDAC communities.
+PKRDAC snapshot uses a combination of the existing token balances of the POKER & eosDAC communities.
 
 ## POKER Community
 
