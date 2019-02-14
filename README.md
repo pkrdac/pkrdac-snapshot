@@ -18,6 +18,7 @@ PKRDAC's maximum supply will remain as 10M.
 
 The following accounts are not eligible to receive PKRDAC tokens and will be burned from circulation:
 
+- `eospokerwins`
 - `eospokermine`
 - `eospokerdevs`
 - `b1`
