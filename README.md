@@ -2,13 +2,17 @@
 
 PKRDAC snapshot uses a combination of the existing token balances of the POKER & eosDAC communities.
 
+- **Block Number**: 42,888,888
+- **Date**: February 15th, 2019
+- **Min Balance**: 1 POKER or 1 EOSDAC
+
 ## POKER Community
 
 POKER token holders will receive a 1:1 ratio airdrop.
 
 ## eosDAC Community
 
-eosDAC "active" members are able to receive up to 20% of PKRDAC's maximum supply based on their % ownership of EOSDAC tokens.
+eosDAC "**active**" members are able to receive up to 20% of PKRDAC's maximum supply based on their % ownership of EOSDAC tokens.
 
 ## Maximum Supply
 
