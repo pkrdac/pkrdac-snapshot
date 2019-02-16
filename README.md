@@ -2,9 +2,15 @@
 
 PKRDAC snapshot uses a combination of the existing token balances of the POKER & eosDAC communities.
 
-- **Block Number**: 42,888,888
-- **Date**: February 15th, 2019
-- **Min Balance**: 1 POKER or 1 EOSDAC
+- **block number**: 42,888,888
+- **date**: February 15th, 2019
+- **min balance**: `1 POKER` or `1 EOSDAC`
+- **eosDAC**:
+    - **accounts**: 1679
+    - **total**: `319508.3235 PKRDAC`
+- **POKER**:
+    - **accounts**: 2388
+    - **total**: `5178111.0900 PKRDAC`
 
 ## POKER Community
 
@@ -29,9 +35,9 @@ The following accounts are not eligible to receive PKRDAC tokens and will be bur
 
 ## Frozen supply
 
-Due to suspicious activities, the following accounts are not eligible in the initial PKRDAC distribution.
+Due to suspicious activities, the following accounts are not eligible in the initial `PKRDAC` distribution.
 
-These accounts have the right to submit a claim to PKRDAC; if approved the elected custodians will issue their rightful PKRDAC tokens.
+These accounts have the right to submit a claim to `PKRDAC`; if approved the elected custodians will issue their rightful `PKRDAC` tokens.
 
 If no claim is made within the first 90 days of the DAC being established, these tokens will be treated as burned supply.
 
