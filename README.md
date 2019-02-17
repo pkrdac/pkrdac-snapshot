@@ -10,7 +10,7 @@ PKRDAC snapshot uses a combination of the existing token balances of the POKER &
     - **total**: `319508.3235 PKRDAC`
 - **POKER**:
     - **accounts**: 2388
-    - **total**: `5178111.0900 PKRDAC`
+    - **total**: `5123910.6343 PKRDAC`
 
 ## POKER Community
 
@@ -32,6 +32,15 @@ The following accounts are not eligible to receive PKRDAC tokens and will be bur
 - `eospokermine`
 - `eospokerdevs`
 - `b1`
+
+**DEX**
+
+The following accounts cannot accept incoming transfers due to their deployed smart contract restrictions.
+
+- `whaleextrust`
+- `bancorc11133`
+- `guessdapppub`
+- `mydex1engine`
 
 ## Frozen supply
 
