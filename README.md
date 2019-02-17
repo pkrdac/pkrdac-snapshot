@@ -9,7 +9,7 @@ PKRDAC snapshot uses a combination of the existing token balances of the POKER &
     - **accounts**: 1679
     - **total**: `319508.3235 PKRDAC`
 - **POKER**:
-    - **accounts**: 2388
+    - **accounts**: 2384
     - **total**: `5123910.6343 PKRDAC`
 
 ## POKER Community
