@@ -9,8 +9,8 @@ PKRDAC snapshot uses a combination of the existing token balances of the POKER &
     - **accounts**: 1679
     - **total**: `319508.3235 PKRDAC`
 - **POKER**:
-    - **accounts**: 2384
-    - **total**: `5123910.6343 PKRDAC`
+    - **accounts**: 2383
+    - **total**: `5123280.2842 PKRDAC`
 
 ## POKER Community
 
@@ -41,6 +41,7 @@ The following accounts cannot accept incoming transfers due to their deployed sm
 - `bancorc11133`
 - `guessdapppub`
 - `mydex1engine`
+- `findexfindex`
 
 ## Frozen supply
 
